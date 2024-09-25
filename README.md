@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mervedemirel
-- 👀 I’m interested in Machine Learning and Android Application Development. 
+- 👀 I’m interested in AI and Web Development. 
 - 💞️ I’m looking to collaborate on Machine Learning Algorithms.
 - 📫 How to reach me https://www.linkedin.com/in/merve-demirel-a3943886/
 
